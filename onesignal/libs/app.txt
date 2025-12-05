@@ -1,2 +1,2 @@
-vless://JFD93021SA93B1E3B63C50F482896@www.speedtest.net:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=ovh.gilas.name.ng.&fp=chrome&type=ws&sni=ovh.gilas.name.ng#Germany
-vless://JFD93021SA93B1E3B63C50F482896@94.182.152.142:11705?security=none&encryption=none&headerType=http&type=tcp#Germany
+vless://b082fba9-0e10-4262-9953-ea83e0f3cac9@www.speedtest.net:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=ovh.gilas.name.ng.&fp=chrome&type=ws&sni=ovh.gilas.name.ng#Germany
+vless://b082fba9-0e10-4262-9953-ea83e0f3cac9@94.182.152.142:11705?security=none&encryption=none&headerType=http&type=tcp#Germany
